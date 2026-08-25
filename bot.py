@@ -10,7 +10,7 @@ from aiogram.types import ChatPermissions, Message
 from aiogram.exceptions import TelegramBadRequest
 
 # ========== КОНФИГ ==========
-API_TOKEN = "8987524619:AAG1ro6-gZ6lYW47_Gm2fuYB5WLOgGnW-rI"
+API_TOKEN = "8900585219:AAGLJYmGLEUGy7oh7ErqpDawuISLVBynXJM"
 ADMIN_IDS = [7890361594]  # Ваши Telegram ID
 LOG_CHAT_ID = None  # Укажите ID чата для логов, или оставьте None
 
